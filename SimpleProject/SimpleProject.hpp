@@ -12,7 +12,7 @@ struct CommandError: std::logic_error
 {
     CommandError();
 };
-
+//My test
 class SimpleProject
 {
 public:
